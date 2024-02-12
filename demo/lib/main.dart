@@ -45,6 +45,7 @@ class MyWidget extends   StatelessWidget {
 }
 //this is my comment
 //second comment
+//third comment
 class MyApp extends  StatelessWidget {
     @override
   Widget build(BuildContext context) {
